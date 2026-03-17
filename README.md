@@ -1,4 +1,5 @@
 # 👋 Welcome To My Page 
+Student at Bits Pilani and IIT Madras
 
 <p align="center">
   <picture>
