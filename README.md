@@ -1,4 +1,4 @@
-# 👋 Welcome To My Page 
+# Hey 👋 
 Student at Bits Pilani and IIT Madras
 
 <p align="center">
