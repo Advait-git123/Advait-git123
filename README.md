@@ -1,4 +1,4 @@
-# Hey 👋 
+# A Few Of My Projects 👋 
 Student at Bits Pilani and IIT Madras
 
 <p align="center">
